@@ -1,12 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "student": [
+    { "id": 1, "student 1": "qwer" },
+    { "id": 2, "student 2": "asdf" },
+    { "id": 3, "student 3": "zxcv" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {"id": 1,
+     "name": "candidate 1",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 2,
+     "name": "candidate 2",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },{"id": 3,
+     "name": "candidate 3",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },{"id": 4,
+     "name": "candidate 4",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },{"id": 5,
+     "name": "candidate 5",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    }
   ],
   "profile": {
     "name": "typicode"
