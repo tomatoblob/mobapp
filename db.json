@@ -35,6 +35,8 @@
      "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
      "votes": 0
     }],
+  
+  
     "candidate2": [
     {"id": 21,
      "name": "candidate 21",
@@ -66,6 +68,8 @@
      "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
      "votes": 0
     }],
+  
+  
     "candidate3": [
     {"id": 31,
      "name": "candidate 31",
@@ -97,6 +101,8 @@
      "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
      "votes": 0
     }],
+  
+  
     "candidate4": [
     {"id": 41,
      "name": "candidate 41",
@@ -127,9 +133,7 @@
      "position": "4th Year Representative",
      "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
      "votes": 0
-    }]
-    
-  ],
+    }],
   "profile": {
     "name": "typicode"
   }
