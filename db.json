@@ -32,7 +32,7 @@
       "id":13,
       "name":"candidate 13",
       "vote":0
-    },
+    }
   ],
   
   "candidate2": [
@@ -51,7 +51,7 @@
       "name":"candidate 23",
       "vote":0
     },
-  ],
+  ]
   
   "candidate3": [
     {
@@ -68,7 +68,7 @@
       "id":33,
       "name":"candidate 33",
       "vote":0
-    },
+    }
   ],
   
   "candidate4": [
@@ -86,6 +86,6 @@
       "id":43,
       "name":"candidate 43",
       "vote":0
-    },
+    }
   ]
 }
