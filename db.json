@@ -2,17 +2,17 @@
   "student": [
     {
       "id": 1,
-      "name": "Post 1"
+      "name": "Post 1",
       "code": "qwer"
     },
     {
       "id": 2,
-      "name": "Post 2"
+      "name": "Post 2",
       "code": "asdf"
     },
     {
       "id": 3,
-      "name": "Post 3"
+      "name": "Post 3",
       "code": "zxcv"
     }
   ],
