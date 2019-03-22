@@ -1,0 +1,140 @@
+{
+  "student": [
+    { "id": 1, "student 1": "qwer" },
+    { "id": 2, "student 2": "asdf" },
+    { "id": 3, "student 3": "zxcv" }
+  ],
+  "candidate1": [
+    {"id": 1,
+     "name": "candidate 1",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 2,
+     "name": "candidate 2",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 3,
+     "name": "candidate 3",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 4,
+     "name": "candidate 4",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 5,
+     "name": "candidate 5",
+     "position": "1st Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    }],
+  
+  
+    "candidate2": [
+    {"id": 21,
+     "name": "candidate 21",
+     "position": "2nd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 22,
+     "name": "candidate 22",
+     "position": "2nd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 23,
+     "name": "candidate 23",
+     "position": "2nd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 24,
+     "name": "candidate 24",
+     "position": "2nd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 25,
+     "name": "candidate 25",
+     "position": "2nd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    }],
+  
+  
+    "candidate3": [
+    {"id": 31,
+     "name": "candidate 31",
+     "position": "3rd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 32,
+     "name": "candidate 32",
+     "position": "3rd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 33,
+     "name": "candidate 33",
+     "position": "3rd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 34,
+     "name": "candidate 34",
+     "position": "3rd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 35,
+     "name": "candidate 35",
+     "position": "3rd Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    }],
+  
+  
+    "candidate4": [
+    {"id": 41,
+     "name": "candidate 41",
+     "position": "4th Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 42,
+     "name": "candidate 42",
+     "position": "4th Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 43,
+     "name": "candidate 43",
+     "position": "4th Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 44,
+     "name": "candidate 44",
+     "position": "4th Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    },
+    {"id": 45,
+     "name": "candidate 45",
+     "position": "4th Year Representative",
+     "image": "https://img.icons8.com/ultraviolet/80/000000/gender-neutral-user.png",
+     "votes": 0
+    }],
+  "profile": {
+    "name": "typicode"
+  }
+}
